@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white)
 
 
 ### Tools & Cooperation
@@ -31,14 +31,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
-<!--
-## Project
-
-> 1. HomeArt<br>
-    그림공유 SNS 서비스입니다.
-> 2. HappyHouse<br>
-    카카오 맵API를 이용한 집 찾기 서비스입니다.
-> 3. 줌글(Zoomgle)
-> 4. 엽서사전
-> 5. Royale 
--->
