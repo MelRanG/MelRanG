@@ -1,7 +1,5 @@
 # GitHub
 
-> 1일 1commit을 목표로 하고 있습니다
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MelRanG&show_icons=true&theme=dark)
 ------------ 
 
@@ -16,7 +14,6 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white)
 
 
 ### Tools & Cooperation
@@ -30,4 +27,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white)
 
