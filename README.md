@@ -1,3 +1,5 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpdud285)](https://solved.ac/tpdud285/)
+
 # GitHub
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MelRanG&show_icons=true&theme=dark)
